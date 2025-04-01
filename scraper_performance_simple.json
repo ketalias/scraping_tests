@@ -1,0 +1,74 @@
+{
+    "XPath": {
+        "iterations": [
+            {
+                "execution_time": 0.0051,
+                "cpu_usage": 29.7,
+                "memory_change": 0.26
+            },
+            {
+                "execution_time": 0.006,
+                "cpu_usage": 0.0,
+                "memory_change": 0.01
+            },
+            {
+                "execution_time": 0.005,
+                "cpu_usage": 20.0,
+                "memory_change": 0.0
+            }
+        ],
+        "averages": {
+            "avg_execution_time": 0.0054,
+            "avg_cpu_usage": 16.57,
+            "avg_memory_change": 0.09
+        }
+    },
+    "CSS-селектори (Parsel)": {
+        "iterations": [
+            {
+                "execution_time": 0.011,
+                "cpu_usage": 18.75,
+                "memory_change": 0.69
+            },
+            {
+                "execution_time": 0.006,
+                "cpu_usage": 0.0,
+                "memory_change": 0.14
+            },
+            {
+                "execution_time": 0.0051,
+                "cpu_usage": 33.35,
+                "memory_change": 0.0
+            }
+        ],
+        "averages": {
+            "avg_execution_time": 0.0074,
+            "avg_cpu_usage": 17.37,
+            "avg_memory_change": 0.28
+        }
+    },
+    "BeautifulSoup": {
+        "iterations": [
+            {
+                "execution_time": 0.014,
+                "cpu_usage": 10.0,
+                "memory_change": 0.07
+            },
+            {
+                "execution_time": 0.0146,
+                "cpu_usage": 5.55,
+                "memory_change": 0.66
+            },
+            {
+                "execution_time": 0.014,
+                "cpu_usage": 18.75,
+                "memory_change": 0.11
+            }
+        ],
+        "averages": {
+            "avg_execution_time": 0.0142,
+            "avg_cpu_usage": 11.43,
+            "avg_memory_change": 0.28
+        }
+    }
+}
